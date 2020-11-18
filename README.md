@@ -1,6 +1,6 @@
-# hello_world
+# Brew Crew(hello world)
 
-A new Flutter project.
+A new Flutter project.Which manages how much sugar is sufficient for your mates.
 
 ## Getting Started
 
